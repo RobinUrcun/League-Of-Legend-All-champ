@@ -1,3 +1,12 @@
+.boutonFiltrePdv {
+  display: inline-block;
+  border: 2px solid #785A28;
+  padding: 4px;
+  color: #F0E6D2;
+  font-weight: bold;
+  background: linear-gradient(#005A82, #0AC8B9);
+}
+
 header {
   height: 100px;
   display: flex;
