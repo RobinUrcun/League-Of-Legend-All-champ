@@ -1,4 +1,4 @@
-const reponse = await fetch("json/allchamps.json");
+const reponse = await fetch("json/allChamps.json");
 const champs = await reponse.json();
 
 const champsZone = document.querySelector(".champsZone")
